@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "pxt-robot1": "github:agrabara/pxt-ext-ramierobota#v0.0.37"
     },
     "files": [
         "README.md",
@@ -13,6 +14,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": false
 }
