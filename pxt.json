@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "pxt-robot1": "github:agrabara/pxt-ext-ramierobota#v0.0.37"
+        "pxt-EXT-RamieRobota": "github:agrabara/pxt-ext-ramierobota#v0.0.39"
     },
     "files": [
         "README.md",
